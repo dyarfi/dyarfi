@@ -6,15 +6,15 @@
 - Docker
 - SCSS
 - TailwindCSS
-- Bootstrap
+- BootstrapCSS
 
 #### Fun projects 🌱
 - [Gerimis App](https://gerimis-app.vercel.app/)
 - [NextJS Reactstrap](https://nextjs-reactstrap.now.sh/)
 - [React Reactstrap](https://create-reactstrap-app.now.sh/)
-- [React Marvel Comics](https://react-marvel-app.vercel.app/)
+<!--- [React Marvel Comics](https://react-marvel-app.vercel.app/) -->
 
-Visit my [Blog](https://dykraf.com/).
+#### Visit my [Blog](https://dykraf.com/).
 
 
 <!--
