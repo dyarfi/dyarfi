@@ -1,10 +1,21 @@
 ### Hi there 👋
-
-#### Stack
-- NuxtJS
-- NextJS
+#### Stack ⚡
+- NuxtJS / Vue
+- NextJS / React
 - Laravel
 - Docker
+- SCSS
+- TailwindCSS
+- Bootstrap
+
+#### Fun projects 🌱
+- [Gerimis App](https://gerimis-app.vercel.app/)
+- [NextJS Reactstrap](https://nextjs-reactstrap.now.sh/)
+- [React Reactstrap](https://create-reactstrap-app.now.sh/)
+- [React Marvel Comics](https://react-marvel-app.vercel.app/)
+
+Visit my [Blog](https://dykraf.com/).
+
 
 <!--
 **dyarfi/dyarfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
