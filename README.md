@@ -14,7 +14,7 @@
 - [React Reactstrap](https://create-reactstrap-app.now.sh/)
 <!--- [React Marvel Comics](https://react-marvel-app.vercel.app/) -->
 
-#### 🔭 Visit my [Blog](https://dykraf.com/).
+<!--- #### 🔭 Visit my [Blog](https://dykraf.com/). -->
 
 
 <!--
