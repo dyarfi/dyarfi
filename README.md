@@ -2,6 +2,8 @@
 #### ⚡ Stack
 - NuxtJS / Vue
 - NextJS / React
+- GraphQL / RestAPI
+- SQL / NoSQL
 - Laravel
 - Docker
 - SCSS
