@@ -14,6 +14,7 @@
 - [Gerimis App](https://gerimis-app.vercel.app/)
 - [NextJS Reactstrap](https://nextjs-reactstrap.now.sh/)
 - [React Reactstrap](https://create-reactstrap-app.now.sh/)
+- [FoodTale](https://foodtale.netlify.app/)
 <!--- [React Marvel Comics](https://react-marvel-app.vercel.app/) -->
 
 <!--- #### 🔭 Visit my [Blog](https://dykraf.com/). -->
