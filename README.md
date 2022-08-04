@@ -10,7 +10,7 @@
 - TailwindCSS
 - BootstrapCSS
 
-#### 🌱 Fun projects
+#### 🌱 Fun stuff
 - [Gerimis App](https://gerimis-app.vercel.app/)
 - [NextJS Reactstrap](https://nextjs-reactstrap.now.sh/)
 - [React Reactstrap](https://create-reactstrap-app.now.sh/)
