@@ -15,7 +15,6 @@
 - [NextJS Reactstrap](https://nextjs-reactstrap.now.sh/)
 - [React Reactstrap](https://create-reactstrap-app.now.sh/)
 - [FoodTale](https://foodtale.netlify.app/)
-- [CodePen](https://codepen.io/dyarfi/)
 - [Nuxtify - Vuetify in Nuxt.js dashboard theme](https://nuxtjs-vuetify-dashboard.netlify.app/)
 <!--- - [NuxtChakraUI - Chakra UI in Nuxt.js](https://nuxtjs-chakraui-template.netlify.app/) -->
 
