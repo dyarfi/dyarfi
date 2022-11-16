@@ -16,7 +16,7 @@
 - [React Reactstrap](https://create-reactstrap-app.now.sh/)
 - [FoodTale](https://foodtale.netlify.app/)
 - [NuxtJS Vuetify](https://nuxtjs-vuetify-dashboard.netlify.app/)
-- [NuxtJS Chakra UI](https://nuxtjs-chakraui-template.netlify.app/)
+<!--- - [NuxtJS Chakra UI](https://nuxtjs-chakraui-template.netlify.app/) -->
 
 <!--- [React Marvel Comics](https://react-marvel-app.vercel.app/) -->
 
