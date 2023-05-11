@@ -4,7 +4,7 @@
 - NextJS / React
 - GraphQL / RestAPI
 - SQL / NoSQL
-- Laravel / PyroCMS
+- Laravel / Pyro CMS
 - NodeJS / Strapi CMS
 - Docker
 - SCSS
