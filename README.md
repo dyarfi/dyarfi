@@ -1,4 +1,5 @@
 ### Hi there 👋
+<!---
 #### ⚡ Stack
 - NuxtJS / Vue
 - NextJS / React
@@ -10,6 +11,7 @@
 - SCSS
 - TailwindCSS
 - BootstrapCSS
+-->
 <!---
 #### 🌱 Fun stuff
 - [Gerimis App](https://gerimis-app.vercel.app/)
